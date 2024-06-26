@@ -1,0 +1,23 @@
+.main{
+    background-color: rgb(69, 181, 69);
+    color: #fff;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+}
+.logo{
+    height: 30px;
+    width: 140px;
+    text-align: left;
+}
+.menu{
+    width: 400px;
+    height: 70px;
+    float: left;
+}
+.scores-container{
+    background-color: rgb(81, 81, 134);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
